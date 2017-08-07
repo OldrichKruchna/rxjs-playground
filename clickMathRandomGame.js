@@ -14,8 +14,3 @@ click.withLatestFrom(rndVal).subscribe((values) => {
         console.log(`%cLose with value ${lastVal}`, 'color: red; font-size:15px;');
     }
 });
-
-
-
-
-
